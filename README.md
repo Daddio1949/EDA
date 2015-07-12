@@ -1,5 +1,5 @@
 # Coursera Exploratory Data Analysis (EDA) - Course Project 1:  Making Plots
-## The eight files (excluding the readme file) in the EDA repository are th 4 R 
+## The eight files (excluding the readme file) in the EDA repository are the 4 R 
 ## program files and the 4 plot files.  
 
 ### The table below shows which program file (R) created which plot (png) file.
